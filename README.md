@@ -2,7 +2,7 @@ Welcome to my GitHub profile! It's my hobby pet projects page.
 
 ### 🎯 Arduino & Embedded Systems
 
-#### **[etl (embedded template library)](https://github.com/JimorMarlow/WEMOS_D1_Mini_V4)** ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Version](https://img.shields.io/github/package-json/v/JimorMarlow/WEMOS_D1_Mini_V4)
+#### **[etl (embedded template library)](https://github.com/JimorMarlow/WEMOS_D1_Mini_V4)** ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 Lightweight C++ template library optimized for embedded systems (Arduino, ESP8266/ESP32). Provides STL-like containers and algorithms with minimal memory footprint. Note: Tested on EPS8266/ESP32 boards only but used only Arduino functions.
 
 Лековесная библиотека с минимально необходимым набором STL-подобных контейров и обработок с максимальным упрощением функционала и компактным использованием памяти. Я проверяю все на ESP8266/ESP32, но ипользую только Arduino функции.
@@ -18,7 +18,7 @@ Lightweight C++ template library optimized for embedded systems (Arduino, ESP826
 
 #### **Other Arduino Projects:**
 NOTE: все они так или иначе используют etl.
-- ![Version](https://img.shields.io/github/package-json/v/JimorMarlow/WEMOS_D1_Mini_V4)**[WEMOS_D1_Mini_V4](https://github.com/JimorMarlow/WEMOS_D1_Mini_V4)** - Изучение возможностей WEMOS D1 Mini/ESP32 C3 Mini boards. Test projects for [etl](https://github.com/JimorMarlow/WEMOS_D1_Mini_V4) debug.
+- **[WEMOS_D1_Mini_V4](https://github.com/JimorMarlow/WEMOS_D1_Mini_V4)** - Изучение возможностей WEMOS D1 Mini/ESP32 C3 Mini boards. Test projects for [etl](https://github.com/JimorMarlow/WEMOS_D1_Mini_V4) debug.
 - **[TestLabSoft](https://github.com/JimorMarlow/TestLabSoft)** - Тестовый проект для проверки различных алгоритмов и сторонних библиток, связанных с ардуино обработками
 - **[TestLabHard](https://github.com/JimorMarlow/TestLabHard)** - Песочница для изучения различных модулей со ссылками на сторонние библиотеки
 - **[FlowCalibrate](https://github.com/JimorMarlow/FlowCalibrate)** - Калибровка датчиков потока вода на различных скоростях по объему (со взвешивающей платформой)
