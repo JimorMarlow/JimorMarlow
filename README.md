@@ -17,9 +17,9 @@ Lightweight C++ template library optimized for embedded systems (Arduino, ESP826
 **Features:**
 - `etl::vector` динамический vector для хранения данных
 - `etl::queue` упрощенный кольцевой буфер для усреднения и фильтрации входящих данных
-- `etl::array` with fixed capacity. Обертка над статическими массивами в оперативной и флеш памяти (RAM, PROGMEM array support)
+- `etl::array` with fixed capacity. Обертка над статическими массивами в оперативной и флеш памяти (RAM, PROGMEM array support) для однотипного использования различных контейнеров в алгоритмах (etl::vector, etl::array, pgm::array)
 - `etl::lookup` Lookup tables with interpolation support (например, для NTC температурных датчиков). Таблица с интерполяцией результатов между опорными точками.
-- filters: moving average, median3, median5, exponential. Базовый набор для фильтрации выходного сигнала. То, что в Arduino библиотеке должно было быть из коробки.
+- `etl::filter` filters: moving average, median3, median5, exponential. Базовый набор для фильтрации выходного сигнала. То, что в Arduino библиотеке должно было быть из коробки.
 - Color manipulation utilities
 - Memory-efficient algorithms
 
