@@ -35,13 +35,14 @@ NOTE: все они так или иначе используют etl.
 
 **Available Platforms:**
 - **Windows** - Windows desktop version only. Специально сделано для off-line использования во время проведения чемпионата в условиях ограниченного доступа к Internet.
-
+<!--
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JimorMarlow&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JimorMarlow&layout=compact&theme=radical)
+-->
 
 ## 📫 Let's Connect
 
-- 📧 Email: your.email@domain.com
+- 📧 Email: jimor@inbox.ru
