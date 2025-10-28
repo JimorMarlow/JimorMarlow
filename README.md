@@ -26,7 +26,7 @@ Lightweight C++ template library optimized for embedded systems (Arduino, ESP826
 #### **Other Arduino Projects:**
 NOTE: все они так или иначе используют etl.
 - **WEMOS_D1_Mini_V4** - Collection of utilities and drivers for WEMOS D1 Mini/ESP32 C3 Mini boards. Test projects for [etl](https://github.com/JimorMarlow/WEMOS_D1_Mini_V4) debug.
-- **ESP8266 Templates** - Reusable code patterns for ESP8266 development
+- **[TestLabSoft](https://github.com/JimorMarlow/TestLabSoft)]** - Тестовый проект для проверки различных алгоритмов и сторонних библиток, связанных с ардуино обработками
 - **Sensor Libraries** - Various sensor drivers and data processing utilities
 
 ### ⏱️ PuzzleTimer Projects
