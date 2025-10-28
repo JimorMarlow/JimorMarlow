@@ -18,7 +18,7 @@ Lightweight C++ template library optimized for embedded systems (Arduino, ESP826
 
 #### **Other Arduino Projects:**
 NOTE: все они так или иначе используют etl.
-- **[WEMOS_D1_Mini_V4](https://github.com/JimorMarlow/WEMOS_D1_Mini_V4)** - Изучение возможностей WEMOS D1 Mini/ESP32 C3 Mini boards. Test projects for [etl](https://github.com/JimorMarlow/WEMOS_D1_Mini_V4) debug.
+- ![Version](https://img.shields.io/github/package-json/v/JimorMarlow/WEMOS_D1_Mini_V4)**[WEMOS_D1_Mini_V4](https://github.com/JimorMarlow/WEMOS_D1_Mini_V4)** - Изучение возможностей WEMOS D1 Mini/ESP32 C3 Mini boards. Test projects for [etl](https://github.com/JimorMarlow/WEMOS_D1_Mini_V4) debug.
 - **[TestLabSoft](https://github.com/JimorMarlow/TestLabSoft)** - Тестовый проект для проверки различных алгоритмов и сторонних библиток, связанных с ардуино обработками
 - **[TestLabHard](https://github.com/JimorMarlow/TestLabHard)** - Песочница для изучения различных модулей со ссылками на сторонние библиотеки
 - **[FlowCalibrate](https://github.com/JimorMarlow/FlowCalibrate)** - Калибровка датчиков потока вода на различных скоростях по объему (со взвешивающей платформой)
