@@ -1,11 +1,4 @@
-# 👋 Hello, I'm Jimor Marlow!
-
 Welcome to my GitHub profile! It's my hobby pet projects page.
-Добро пожаловать в мой GitHub профиль! 
-
-PS. В основное время я профессиональный C++ программист, занимаюсь разработкой медицинского ПО для обработки ЭЭГ, eyetrackers etc. (25+ лет) [MEDICOM MTD, Russia](https://medicom-mtd.com/)
-
-## 🔥 Featured Projects
 
 ### 🎯 Arduino & Embedded Systems
 
