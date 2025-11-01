@@ -2,8 +2,8 @@ Welcome to my GitHub profile! It's my hobby pet projects page.
 
 ### 🎯 Arduino & Embedded Systems
 
-#### **[`ETL` (embedded template library)](https://github.com/JimorMarlow/etl)** 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Version](https://img.shields.io/github/package-json/v/JimorMarlow/etl)
+#### **[`ETL` (embedded template library)](https://github.com/JimorMarlow/ETL)** 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Version](https://img.shields.io/github/package-json/v/JimorMarlow/ETL)
 
 #### **Other Arduino Projects:**
 NOTE: все они так или иначе используют etl.
