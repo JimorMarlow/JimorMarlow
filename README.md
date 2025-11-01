@@ -2,21 +2,8 @@ Welcome to my GitHub profile! It's my hobby pet projects page.
 
 ### 🎯 Arduino & Embedded Systems
 
-#### **[`ETL` (embedded template library)](https://github.com/JimorMarlow/WEMOS_D1_Mini_V4)** 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Version](https://img.shields.io/github/package-json/v/JimorMarlow/WEMOS_D1_Mini_V4)
-
-Lightweight C++ template library optimized for embedded systems (Arduino, ESP8266/ESP32). Provides STL-like containers and algorithms with minimal memory footprint. Note: Tested on EPS8266/ESP32 boards only but used only Arduino functions.
-
-Лековесная библиотека с минимально необходимым набором STL-подобных контейров и обработок с максимальным упрощением функционала и компактным использованием памяти. Я проверяю все на ESP8266/ESP32, но ипользую только Arduino функции.
-
-**Features:**
-- `etl::filter` filters: moving average, median3, median5, exponential. Базовый набор для фильтрации выходного сигнала. То, что в Arduino библиотеке должно было быть из коробки.
-- `etl::queue` упрощенный кольцевой буфер для усреднения и фильтрации входящих данных (чтобы каждый раз его не придумывать для того же фильтра скользящим окном)
-- `etl::vector` динамический vector для хранения полученных данных
-- `etl::array` with fixed capacity. Обертка над статическими массивами в оперативной и флеш памяти (RAM, PROGMEM array support) для однотипного использования различных контейнеров в алгоритмах (`etl::vector`, `etl::array`, `pgm::array`)
-- `etl::lookup` Lookup tables with interpolation support (например, для NTC температурных датчиков). Таблица с интерполяцией результатов между опорными точками.
-- Color manipulation utilities
-- Memory-efficient algorithms
+#### **[`ETL` (embedded template library)](https://github.com/JimorMarlow/etl)** 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Version](https://img.shields.io/github/package-json/v/JimorMarlow/etl)
 
 #### **Other Arduino Projects:**
 NOTE: все они так или иначе используют etl.
