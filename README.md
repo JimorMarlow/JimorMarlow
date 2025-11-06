@@ -16,6 +16,7 @@ NOTE: все они так или иначе используют etl.
   - **[CellarClimate](https://github.com/JimorMarlow/CellarClimate)** - Станция измерения влажности и температуры в подвале для контроля вытяжки и осушителя воздуха
   - **[MeteoClimate](https://github.com/JimorMarlow/MeteoClimate)** - Наружный датчик измерения температуры
   - **[HomeClimate](https://github.com/JimorMarlow/HomeClimate)** - TODO: собственно домашняя метеостанция с получением данных от всех остальных датчиков
+- **[KitchenLight](https://github.com/JimorMarlow/KitchenLight)** ![Version](https://img.shields.io/github/package-json/v/JimorMarlow/KitchenLight) - светодиодная подсветка рабочей зоны кухни с управлением жестами
 
 ### ⏱️ PuzzleTimer Projects
 
