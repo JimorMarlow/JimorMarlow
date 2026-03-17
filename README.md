@@ -5,6 +5,9 @@ Welcome to my GitHub profile! It's my hobby pet projects page.
 #### **[`ETL` (embedded template library)](https://github.com/JimorMarlow/ETL)** 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Version](https://img.shields.io/github/package-json/v/JimorMarlow/ETL)
 
+#### **[`ETLTest` (ETL test companion for testing and development)](https://github.com/JimorMarlow/ETLTest)** 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Version](https://img.shields.io/github/package-json/v/JimorMarlow/ETLTest)
+
 #### **Other Arduino Projects:**
 NOTE: все они так или иначе используют etl.
 - **[WEMOS_D1_Mini_V4](https://github.com/JimorMarlow/WEMOS_D1_Mini_V4)** - Изучение возможностей WEMOS D1 Mini/ESP32 C3 Mini boards. Test projects for [etl](https://github.com/JimorMarlow/WEMOS_D1_Mini_V4) debug.
